@@ -1,0 +1,32 @@
+#a{
+    
+    text-align: center;
+    font-weight: lighter;
+    margin: 0;
+}
+
+.bar{
+    background-color: rgb(169, 168, 168);
+
+}
+.top{
+    background-color: rgb(59, 189, 240);
+}
+.navbar .nav-item {
+    margin-right: 30px; /* Adjust the value to increase or decrease the gap */
+  }
+
+
+
+.sec1{
+    height: 100vh;
+    background-color: aliceblue;
+
+}
+.sec2{
+    height: 100vh;
+
+}
+.nav-link {
+    margin-right: 30px; /* Adjust the value to increase or decrease spacing */
+}
